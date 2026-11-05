@@ -156,3 +156,21 @@ ping <hostname>.local
 
 - **Anàlisi requerida:** Descriviu com funciona el protocol **mDNS** (*Multicast DNS*), quin port utilitza (UDP 5353) i quin avantatge aporta en entorns on no es disposa d'un servidor DNS configurat.
 
+Protocol mDNS: Utilitza missatges multicast a la xarxa local, bàsicament un dispositiu pregunta per un nom i només el propietari respon.
+
+Utilitza el port UDP 5353
+
+Permet connectar dispositius automàticament sense necessitat de cap servidor DNS pel seu nom com per exemple `.local`.
+
+
+## FONTS i EINES UTILITZADES
+
+- Apunts del mòdul 0227 Serveis de xarxa
+
+- Pàgines de manual: `man dig`, `man nslookup`
+
+- Base mapa conceptual IA: [Conversa Gemini mapa](https://share.gemini.google/1WWOL1CRME34)
+
+- Imatge central DNS mapa conceptual: [Conversa Gemini DNS logo](https://share.gemini.google/jBIPwCWhWiYY)
+
+- Eines: `ip`, `dig` , `nslookup`, `hostname` a Zorin OS i `ping` a Windows PowerShell.
