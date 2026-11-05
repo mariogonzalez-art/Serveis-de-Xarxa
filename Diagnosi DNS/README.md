@@ -162,6 +162,10 @@ Utilitza el port UDP 5353
 
 Permet connectar dispositius automàticament sense necessitat de cap servidor DNS pel seu nom com per exemple `.local`.
 
+## MAPA CONEPTUAL
+
+![](./img/mapa_conceptual.png)
+
 
 ## FONTS i EINES UTILITZADES
 
