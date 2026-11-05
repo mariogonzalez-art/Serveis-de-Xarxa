@@ -151,6 +151,8 @@ ping <hostname>.local
 
 ![](./img/11.png)
 
+![](./img/12.png)
+
 
 - **Anàlisi requerida:** Descriviu com funciona el protocol **mDNS** (*Multicast DNS*), quin port utilitza (UDP 5353) i quin avantatge aporta en entorns on no es disposa d'un servidor DNS configurat.
 
